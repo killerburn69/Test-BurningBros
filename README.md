@@ -38,3 +38,11 @@ hooks
 ├─ tailwind.config.js
 └─ yarn.lock
 ```
+
+
+# Introduce
+
+My name is Kiet and i have done this task for burning bros
+In this project, i have using axios to call api
+And also i, i have custom hook useDebounce when user type it will wait 2000ms and after that will call api
+
