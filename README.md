@@ -1,4 +1,11 @@
-#Task assignment of Burning Bros
+
+# Introduce
+
+My name is Kiet and i have done this task for burning bros
+In this project, i have using axios to call api
+And also i, i have custom hook useDebounce when user type it will wait 2000ms and after that will call api
+
+# Task assignment of Burning Bros
 
 ```
 📦 
@@ -39,10 +46,12 @@ hooks
 └─ yarn.lock
 ```
 
+# How to run
+1. you clone this repo
+2. run command yarn install all package in package.json
+3. after install succesfully, run command yarn start to start the app
 
-# Introduce
-
-My name is Kiet and i have done this task for burning bros
-In this project, i have using axios to call api
-And also i, i have custom hook useDebounce when user type it will wait 2000ms and after that will call api
+# Test the app
+1. You scroll
+2. You type
 
